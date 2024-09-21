@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    font-family: "Roboto" sans-serif;
+}
+.header{
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
+}
+.table{
+    font-size: 20px;
+    text-align: center;
+    padding: 30px;
+    margin-left: 600px;
+}
+.day{
+    color: purple;
+}
